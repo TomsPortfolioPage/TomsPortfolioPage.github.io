@@ -112,7 +112,9 @@ a:link {
 }
 
 .photo-description{
-	margin-top: -19px;
+	
+	width: 60%;
+	margin: -19px auto;
 	
 }
 
