@@ -1,0 +1,144 @@
+body{
+	text-align: center;
+	background-color: rgb(206, 206, 206);
+	color: rgb(255,69,0);
+	font-family: Oswald;
+	
+
+}
+
+/*Table Section */
+table{
+	width: 50%;
+	text-align: center;
+	margin: 0 auto;
+	border: 2px solid grey;
+	border-radius: 5px;
+	background-color: rgb(224, 224, 224);
+	margin-top: 50px;
+	border-collapse: collapse;
+}
+
+th {
+  border: 2px solid grey;
+}
+
+td {
+	border: 2px solid grey;
+	
+}
+
+.hover-table:hover{
+	color: grey;
+}
+
+/*link decoration*/
+a:hover {
+    color: grey;
+    background-color: transparent;
+	text-decoration: none;
+}
+a:active {
+    color: rgb(255,69,0);
+    background-color: transparent;
+	text-decoration: none;
+}
+a:visited {
+    color: rgb(255,69,0);
+    background-color: transparent;
+	text-decoration: none;
+
+}
+
+a:link {
+    color: rgb(255,69,0); 
+    background-color: transparent; 
+	text-decoration: none;
+}
+
+/*Menu Section*/
+.menu{
+	width: 20%;
+	text-align: center;
+	font-weight: bold;
+	margin: 0 auto;
+	color: rgb(255,69,0);
+	}
+
+.menu-text p{
+	border-bottom: 1px solid grey;	
+}
+
+.menu-text:hover{
+	color: grey;
+}
+
+/*Banner Section*/
+.banner{
+	position: relative;
+	background-image: url("aus-photo.jpg");
+	background-position: center;
+	background-size: cover;
+	width: 80%;
+	height: 320px;
+	border-top: 3px solid black;
+	border-bottom: 3px solid black;
+	margin: 0 auto;
+	
+	
+}
+
+.banner h1{
+	width: 350px;
+	margin: 0 auto;
+	border: 5px solid white;
+	border-radius: 5px;
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	position: absolute;
+	top:36%;
+	left:50%;
+    transform: translate(-50%, -36%);
+	
+
+}
+
+.banner h6{
+	position: absolute;
+	top: 87%;
+	color: rgba(255, 255, 255, 0.8);
+	
+}
+
+.photo-description{
+	margin-top: -19px;
+	
+}
+
+
+/*Footer Section*/
+footer{
+	
+	background-color: rgb(105,105,105);
+	color: black;
+	
+}
+footer a:hover {
+    color: grey;
+    background-color: transparent;
+	text-decoration: none;
+}
+
+
+/*About Me section*/
+
+.about-me{
+	width: 40%;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 50px;
+	
+}
+
+
