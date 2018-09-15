@@ -112,6 +112,7 @@ a:link {
 }
 
 .photo-description{
+	position: relative;
 	width: 1000px;
 	margin: -19px auto;
 	
