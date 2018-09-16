@@ -123,7 +123,10 @@ footer{
 	
 	background-color: rgb(105,105,105);
 	color: black;
-	
+}
+
+footer a:link{
+	color:black
 }
 footer a:hover {
     color: grey;
