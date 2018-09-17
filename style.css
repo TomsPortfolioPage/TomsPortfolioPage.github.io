@@ -15,8 +15,9 @@ table{
 	border: 2px solid grey;
 	border-radius: 5px;
 	background-color: rgb(224, 224, 224);
-	margin-top: 50px;
+	margin-top: 150px;
 	border-collapse: collapse;
+	margin-bottom: 150px;
 }
 
 th {
@@ -167,4 +168,8 @@ div .game-player , .game-enemy , .game-hostage {
   
 }
 
-.game
+video{
+	width: 80%;
+	height: 80%;
+	margin: 0 auto;
+}
