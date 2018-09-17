@@ -195,7 +195,10 @@ video{
 
 @media only screen and (max-device-width : 667px){
 	.menu{
-		width: 50%;
-		font-size: 24;
+		width: 60%;
+		font-size: 50;
+	}
+	.banner{
+		width: 90%;
 	}
 }
