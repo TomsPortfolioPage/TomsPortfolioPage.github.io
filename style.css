@@ -180,3 +180,13 @@ video{
 	height: 80%;
 	margin: 0 auto;
 }
+
+.code-1{
+	width: 50%;
+	height: 20%;
+}
+
+.code-2{
+	width: 50%;
+	height: 50%;
+}
