@@ -190,3 +190,9 @@ video{
 	width: 50%;
 	height: 50%;
 }
+
+
+
+@media only screen and (max-device-width : 667px){
+	color: red;
+}
