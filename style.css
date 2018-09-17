@@ -199,6 +199,10 @@ video{
 		font-size: 60px;
 	}
 	.banner{
-		width: 90%;
+		width: 99%;
+		height: 40%;
+	}
+	body{
+		font-size: 30px;
 	}
 }
