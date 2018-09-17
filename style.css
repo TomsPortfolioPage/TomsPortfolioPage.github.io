@@ -194,5 +194,7 @@ video{
 
 
 @media only screen and (max-device-width : 667px){
-	color: red;
+	body{
+		color: red;
+	}
 }
