@@ -205,4 +205,26 @@ video{
 	body{
 		font-size: 30px;
 	}
+	.photo-description{
+		width: 100%;
+		margin: -19px auto;
+		font-size: 13px;
+		
+	}
+	.about-me{
+		width: 100%;
+		font-size: 30px;
+	}
+	.work{
+		width: 100%;
+		font-size: 30px;
+	}
+	table{
+		width: 100%;
+		font-size: 30px;
+	}
+	.code-1{
+	width: 80%;
+	height: 50%;
+	}
 }
