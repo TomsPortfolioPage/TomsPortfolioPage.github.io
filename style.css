@@ -21,7 +21,6 @@ table{
 	border: 2px solid grey;
 	border-radius: 5px;
 	background-color: rgb(224, 224, 224);
-	
 	border-collapse: collapse;
 	margin-bottom: 150px;
 }
@@ -159,7 +158,6 @@ footer a:visited {
 	width: 70%;
 	text-align: center;
 	margin: 0 auto;
-	margin-top: 50px;
 	
 }
 
